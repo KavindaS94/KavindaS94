@@ -14,7 +14,7 @@
 
 - 🚀 Building **Scalable Web Applications** with Angular, Node.js, and Cloud Services  
 - 🧠 Exploring **AI-Driven Solutions** and integrating them into real-world use cases  
-- 🚀 Currently focusing on **building my startup**, creating impactful software products with a blend of cutting-edge technologies, innovation, and a passion for problem-solving
+- 🚀 Currently focusing on **building my startup ideas**, creating impactful software products with a blend of cutting-edge technologies, innovation, and a passion for problem-solving
 
 ---
 
