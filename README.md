@@ -25,4 +25,5 @@
   <a href="https://medium.com/@kavindasenarathne94"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" /></a>
   <a href="https://www.facebook.com/kavi.shoutmeloud/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" /></a>
   <a href="https://www.linkedin.com/in/kavindasenarathne1994/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://stackoverflow.com/users/9599641/kavinda-senarathne"><img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow" /></a>
 </p>
