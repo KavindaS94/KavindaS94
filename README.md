@@ -1,4 +1,4 @@
-<h1 align="center">🌌 Welcome to Kavinda's Tech Galaxy! 🚀</h1>
+<h1 align="center">🌌 Welcome to Kavinda's GitHub 🚀</h1>
 
 ---
 
