@@ -5,7 +5,7 @@
 ### 🪐 My Tech Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,react,dotnet,typescript,python,aws,gcp,azure,mongodb,sql,postgres,git,docker" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,react,dotnet,typescript,python,aws,gcp,azure,mongodb,mysql,postgres,git,docker" alt="My Skills">
 </p>
 
 ---
