@@ -1,47 +1,74 @@
-<h1 align="center">🌌 Welcome to Kavinda's GitHub 🚀</h1>
-
----
-
-### 🌟 My GitHub Stats & Vibe
+<h1 align="center">🌌 Kavinda Senarathne — Crafting Code, Creating Impact 🚀</h1>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KavindaS94&show_icons=true&theme=radical&hide_title=true" alt="Kavinda's GitHub Stats" />
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-light&hide_title=true" alt="Kavinda's Top Languages" />
+  <em>Associate Tech Lead • Full-Stack Engineer • Cloud & AI Innovator</em>
 </p>
 
 ---
 
-### 📊 Profile Visitors
+## ✨ About Me
+
+I’m a builder at heart — creating **scalable web apps**, **cloud-native systems**, and **AI-driven solutions** that solve real-world problems.  
+Passionate about engineering excellence, clean architecture, automation, and empowering others through technology.
+
+---
+
+## 🧠 My Tech Universe
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KavindaS94&color=blue&style=for-the-badge" alt="Profile views" />
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,react,dotnet,typescript,python,aws,gcp,azure,mongodb,mysql,postgres,git,docker,redis,nginx,githubactions" />
 </p>
 
 ---
 
-### 🪐 My Tech Universe
+## 🚀 What I’m Working On
 
+### **1️⃣ Scalable Web Platforms**
+Building production-grade systems using Angular, Node.js, .NET, microservices, and cloud services.
+
+### **2️⃣ AI Automation & Agents**
+Experimenting with ML/AI to create intelligent systems:
+- AI booking agents  
+- Automated assessment platforms  
+- AI content tools  
+- Virtual try-on pipelines  
+
+### **3️⃣ Startup Innovation**
+Bringing ideas to life — SaaS, productivity tools, AI utilities, real estate systems, and more.
+
+### **4️⃣ Community Contributions**
+Mentoring students, writing articles, leading workshops, and contributing to the tech ecosystem.
+
+---
+
+## 🌟 GitHub Contributions & Stats
+
+### 🔥 **Activity Overview**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,react,dotnet,typescript,python,aws,gcp,azure,mongodb,mysql,postgres,git,docker" alt="My Skills">
+  <img src="https://github-readme-stats.vercel.app/api?username=KavindaS94&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🧩 **Top Technologies**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavindaS94&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### ⚡ **Contribution Streak**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KavindaS94&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 💡 Current Focus
+## 🌐 Let’s Connect
 
-- 🚀 Building **Scalable Web Applications** with Angular, Node.js, and Cloud Services  
-- 🧠 Exploring **AI-Driven Solutions** and integrating them into real-world use cases  
-- ✨ Currently focusing on **building my startup ideas**, creating impactful software products with a blend of cutting-edge technologies, innovation, and a passion for problem-solving
+<p align="center">
+  <a href="mailto:kavindasenarathne94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@kavindasenarathne94"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium" /></a>
+  <a href="https://www.linkedin.com/in/kavindasenarathne1994/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://stackoverflow.com/users/9599641/kavinda-senarathne"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🌌 Let’s Connect!
-
-<p align="center">
-  <a href="mailto:kavindasenarathne94@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://medium.com/@kavindasenarathne94"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" /></a>
-  <a href="https://www.facebook.com/kavi.shoutmeloud/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" /></a>
-  <a href="https://www.linkedin.com/in/kavindasenarathne1994/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://stackoverflow.com/users/9599641/kavinda-senarathne"><img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow" /></a>
-</p>
+<h3 align="center">🚀 Building the future, one commit at a time.</h3>
