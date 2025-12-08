@@ -5,7 +5,7 @@
 ### 🌟 My GitHub Stats & Vibe
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_title=true" alt="Kavinda's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KavindaS94&show_icons=true&theme=radical&hide_title=true" alt="Kavinda's GitHub Stats" />
 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-light&hide_title=true" alt="Kavinda's Top Languages" />
 </p>
@@ -15,7 +15,7 @@
 ### 📊 Profile Visitors
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=KavindaS94&color=blue&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
