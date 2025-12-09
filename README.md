@@ -6,13 +6,17 @@
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-dashboar.vercel.app?user=KavindaS94&theme=dark" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-dashboar.vercel.app?user=KavindaS94&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
 
 ---
 
 ## ✨ About Me
 
-I am fueled by the challenge of transforming ambitious ideas into high-impact digital experiences—engineering scalable web applications, architecting resilient cloud ecosystems, and crafting intelligent AI-driven solutions that deliver real value and measurable impact.
+I am fueled by the challenge of transforming ambitious ideas into meaningful, high-impact digital solutions. My work spans across engineering scalable web applications, designing resilient cloud-native infrastructures, and integrating intelligent AI-driven systems that deliver real value, performance, and innovation. I strive to bridge creativity with engineering depth—crafting technology that not only functions beautifully but also solves real-world problems at scale.
 
 ---
 
@@ -24,12 +28,17 @@ I am fueled by the challenge of transforming ambitious ideas into high-impact di
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 What I’m Building
 
-- Scalable web platforms (Angular, Node.js, .NET)
-- AI agents & automation systems
-- Cloud-native architectures (AWS, Azure, GCP)
-- Startup product development & innovation
+I enjoy working at the intersection of **engineering, innovation, and user value**.  
+Currently contributing to:
+
+- **Next-generation scalable platforms** using Angular, Node.js, and .NET  
+- **AI agents & automation systems** that enhance productivity and decision-making  
+- **Cloud-native architectures** deployed across AWS, Azure, and GCP  
+- **Product development for startup ecosystems**, bringing ideas from concept to launch  
+
+I thrive in environments where creativity meets strong technical execution.
 
 ---
 
