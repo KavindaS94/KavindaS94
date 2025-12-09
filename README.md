@@ -15,18 +15,7 @@ I am fueled by the challenge of transforming ambitious ideas into high-impact di
 ## 🧠 My Tech Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,react,dotnet,typescript,python,aws,gcp,azure,mongodb,mysql,postgres,git,docker,redis,nginx,githubactions" />
-</p>
-
----
-
-## 🌟 GitHub Contributions & Stats
-
-### ⚡ Contribution Streak
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=KavindaS94&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,react,dotnet,typescript,python,aws,gcp,azure,mongodb,mysql,postgres,git,docker,githubactions" />
 </p>
 
 ---
