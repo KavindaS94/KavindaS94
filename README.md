@@ -6,6 +6,10 @@
 
 ---
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-dashboar.vercel.app?user=KavindaS94&theme=dark" alt="GitHub Streak" /></a>
+
+---
+
 ## ✨ About Me
 
 I am fueled by the challenge of transforming ambitious ideas into high-impact digital experiences—engineering scalable web applications, architecting resilient cloud ecosystems, and crafting intelligent AI-driven solutions that deliver real value and measurable impact.
