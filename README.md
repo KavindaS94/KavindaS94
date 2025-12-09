@@ -1,15 +1,14 @@
 <h1 align="center">🌌 Kavinda Senarathne — Crafting Code, Creating Impact 🚀</h1>
 
 <p align="center">
-  <em>Associate Tech Lead • Full-Stack Engineer • Cloud & AI Innovator</em>
+  <em>Founding Engineer • Full-Stack Engineer • Cloud & AI Innovator</em>
 </p>
 
 ---
 
 ## ✨ About Me
 
-I’m a builder at heart — creating scalable web apps, cloud-native systems, and AI-driven solutions that solve real-world problems.  
-Passionate about engineering excellence, clean architecture, automation, and empowering others through technology.
+I am fueled by the challenge of transforming ambitious ideas into high-impact digital experiences—engineering scalable web applications, architecting resilient cloud ecosystems, and crafting intelligent AI-driven solutions that deliver real value and measurable impact.
 
 ---
 
@@ -23,19 +22,11 @@ Passionate about engineering excellence, clean architecture, automation, and emp
 
 ## 🌟 GitHub Contributions & Stats
 
-### 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavindaS94&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-### 🧩 Top Technologies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavindaS94&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
 ### ⚡ Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KavindaS94&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=KavindaS94&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
